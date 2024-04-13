@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='your_package_name',
+    name='coreai-sdk',
     version='0.1.0',
     description='A simple Python package for cryptographic operations.',
     long_description=open('README.md').read(),
